@@ -1,0 +1,15 @@
+# UNC SolHacks 2026 - GitHub Copilot Learning Lab
+# Install: pip install -r requirements.txt
+
+# API framework
+fastapi==0.115.*
+uvicorn==0.34.*
+
+# Testing
+pytest==8.3.*
+
+# HTTP client for testing APIs
+httpx==0.28.*
+
+# Type checking (optional)
+mypy==1.14.*
